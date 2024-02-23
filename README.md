@@ -16,7 +16,9 @@ Clone the repository:
 
 bash
 Copy code
+'''
 git clone https://github.com/your_username/expense-tracker.git
+'''
 Install dependencies:
 
 bash
