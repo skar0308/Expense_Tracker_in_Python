@@ -1,4 +1,5 @@
-#Expense Tracker Application
+# Expense Tracker Application
+
 This is a simple Python application built using Tkinter for tracking expenses. It allows users to add, view, and manage expenses through a graphical user interface.
 
 Features
