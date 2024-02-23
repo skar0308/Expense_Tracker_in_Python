@@ -13,23 +13,18 @@ TTK Themes library (ttkthemes)
 
 Installation
 Clone the repository:
-
-bash
-Copy code
-'''
-git clone https://github.com/your_username/expense-tracker.git
-'''
+```bash
+  git clone https://github.com/your_username/expense-tracker.git
+```
 Install dependencies:
-
-bash
-Copy code
+```bash
 pip install reportlab ttkthemes
-Usage
+```
 Run the application:
-
-bash
-Copy code
+```bash
+cd expense_tracker
 python expense_tracker.py
+```
 The application window will open, allowing you to interact with it.
 
 Screenshots
